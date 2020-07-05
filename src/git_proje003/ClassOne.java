@@ -7,7 +7,8 @@ public class ClassOne {
 		System.out.println("local master branch");
 		System.out.println("local master branch 2. commit");
 		
-		
+		System.out.println("local master branch");
+		System.out.println("local master branch 2. commit");
 		
 		
 	}
